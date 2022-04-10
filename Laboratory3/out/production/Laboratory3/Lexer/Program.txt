@@ -1,0 +1,9 @@
+main function(){
+a = "Some string or idk"
+number result = product(12, 2.4);
+print(result);
+}
+function product( number a, number b){
+number product = a * b;
+return product;
+}
